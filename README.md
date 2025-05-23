@@ -55,14 +55,3 @@ The project can be used by:
 1. Medical professionals for assisting in retinal disease diagnosis
 2. Researchers for studying retinal disease patterns
 3. Developers for building upon the existing model
-
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-[Specify license here]
-
-## Acknowledgments
-- [List any datasets used]
-- [List any significant contributors]
-- [List any important references]
